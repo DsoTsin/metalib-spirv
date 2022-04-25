@@ -3,7 +3,6 @@
 #include "common.h"
 
 namespace MTL {
-
 _MTL_ENUM(NS::UInteger, PixelFormat) {
     PixelFormatInvalid = 0,
     PixelFormatA8Unorm = 1,
